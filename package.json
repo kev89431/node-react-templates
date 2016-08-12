@@ -26,7 +26,7 @@
     "mocha": "2.3.4",
     "node-jsx": "0.13.3",
     "react": "0.13.3",
-    "react-templates": "git+ssh://github.com/kev89431/react-templates.git",
+    "react-templates": "git+ssh://github.com/kev89431/react-templates.git#gh-pages",
     "require-from-string": "^1.1.0"
   }
 }
